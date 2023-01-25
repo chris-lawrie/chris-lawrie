@@ -1,8 +1,6 @@
 ### Hi there 👋 
 
-My name is Chris, welcome to my personal github account! 
-
-I am currently working to decarbonise the grid with the Data Science team at [Kevala](https://www.kevala.com/).
+My name is Chris, welcome to my personal github account! I'm currently working to decarbonise the grid with the Data Science team at [Kevala](https://www.kevala.com/).
 
 ### 👨‍💻 My favourite languages
 <p>   
