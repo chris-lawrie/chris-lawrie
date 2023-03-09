@@ -14,9 +14,10 @@ My name is Chris, welcome to my personal github account! I'm currently working t
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit-F1A14C.svg?logo=scikit-learn&logoColor=white"></a>
-    <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-0A9EDC.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+    <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-0A9EDC.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="great_expectations" src="https://img.shields.io/badge/great_expectations-F1A14C.svg?logo=great_expectations&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-3C3F42.svg?logo=markdown&logoColor=white"></a>
